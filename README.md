@@ -1,6 +1,6 @@
-<p><span style="font-family:Verdana,Geneva,sans-serif"><span style="font-size:28px">Karen Louren&ccedil;o</span></span></p>
+<h1 style="font-family:Verdana,Geneva,sans-serif"><span style="font-size:28px">Karen Louren&ccedil;o</span></h1>
 
-<p><span style="font-family:Verdana,Geneva,sans-serif"><span style="font-size:22px">Hey, devs!</span></span></p>
+<h3><span style="font-family:Verdana,Geneva,sans-serif"><span style="font-size:22px">Hey, devs!</span></h3>
 
 <p><span style="font-family:Verdana,Geneva,sans-serif"><span style="font-size:16px"><img alt="" src="https://uploaddeimagens.com.br/images/004/308/034/original/avatar.png?1674358618" style="float:right; height:300px; width:200px" /></span></span></p>
 
