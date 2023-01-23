@@ -1,10 +1,10 @@
-<p><span style="font-family:Verdana,Geneva,sans-serif"><span style="font-size:20px">Karen Louren&ccedil;o</span></span></p>
+<p><span style="font-family:Verdana,Geneva,sans-serif"><span style="font-size:28px">Karen Louren&ccedil;o</span></span></p>
 
-<p><span style="font-family:Verdana,Geneva,sans-serif"><span style="font-size:16px">Hey, devs!</span></span></p>
+<p><span style="font-family:Verdana,Geneva,sans-serif"><span style="font-size:22px">Hey, devs!</span></span></p>
 
-<p><span style="font-family:Verdana,Geneva,sans-serif"><span style="font-size:16px"><img alt="" src="https://uploaddeimagens.com.br/images/004/308/034/original/avatar.png?1674358618" style="float:right; height:375px; width:250px" /></span></span></p>
+<p><span style="font-family:Verdana,Geneva,sans-serif"><span style="font-size:16px"><img alt="" src="https://uploaddeimagens.com.br/images/004/308/034/original/avatar.png?1674358618" style="float:right; height:300px; width:200px" /></span></span></p>
 
-<p><span style="font-family:Verdana,Geneva,sans-serif">Eu sou Karen, tenho 27 anos, moro em Salvador/BA sou apaixonada por programa&ccedil;&atilde;o. &lt;br&gt;Atualmente curso Engenharia da Computa&ccedil;&atilde;o pela faculdade descomplica e estou sempre buscando aprender e me atualizar com as &uacute;ltimas tend&ecirc;ncias e tecnologias do mundo da programa&ccedil;&atilde;o.&lt;br&gt; Ficaria feliz em colaborar em projetos interessantes e trabalhar com outros desenvolvedores para aprimorar minhas habilidades. Sinta-se &agrave; vontade para entrar em contato comigo se voc&ecirc; tiver alguma oportunidade ou precisar de ajuda com algo relacionado a JavaScript.</span></p>
+<p><span style="font-family:Verdana,Geneva,sans-serif">Eu sou Karen, tenho 27 anos, moro em Salvador/BA sou apaixonada por programa&ccedil;&atilde;o. <br> Atualmente curso Engenharia da Computa&ccedil;&atilde;o pela faculdade descomplica e estou sempre buscando aprender e me atualizar com as &uacute;ltimas tend&ecirc;ncias e tecnologias do mundo da programa&ccedil;&atilde;o.<br> Ficaria feliz em colaborar em projetos interessantes e trabalhar com outros desenvolvedores para aprimorar minhas habilidades. Sinta-se &agrave; vontade para entrar em contato comigo se voc&ecirc; tiver alguma oportunidade ou precisar de ajuda com algo relacionado a JavaScript.</span></p>
 
 <p><u><span style="font-family:Verdana,Geneva,sans-serif"><span style="font-size:16px">Tecnologias:</span></span></u></p>
 
