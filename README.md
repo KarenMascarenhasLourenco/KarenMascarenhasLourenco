@@ -47,4 +47,5 @@
 <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height:40px; width:40px" />&nbsp; &nbsp;<img alt="Nest JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="height:40px; width:40px" />&nbsp; &nbsp;
 <img alt="Next JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" style="height:40px; width:40px" /></span></p>
 
-[![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenMascarenhasLourenco)](https://github.com/KarenMascarenhasLourenco/github-readme-stats)
+[![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenMascarenhasLourenco&layout=compact&theme=dark)](https://github.com/KarenMascarenhasLourenco/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenMascarenhasLourenco&layout=compact&theme=dark)](https://github.com/KarenMascarenhasLourenco/github-readme-stats)
