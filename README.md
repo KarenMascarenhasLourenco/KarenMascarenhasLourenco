@@ -6,8 +6,8 @@
 
 <p><span style="font-family:Verdana,Geneva,sans-serif">Eu sou Karen, tenho 27 anos, moro em Salvador/BA sou apaixonada por programa&ccedil;&atilde;o. <br> Atualmente curso Engenharia da Computa&ccedil;&atilde;o pela faculdade descomplica e estou sempre buscando aprender e me atualizar com as &uacute;ltimas tend&ecirc;ncias e tecnologias do mundo da programa&ccedil;&atilde;o.<br> Ficaria feliz em colaborar em projetos interessantes e trabalhar com outros desenvolvedores para aprimorar minhas habilidades. Sinta-se &agrave; vontade para entrar em contato comigo se voc&ecirc; tiver alguma oportunidade ou precisar de ajuda com algo relacionado a JavaScript.</span></p>
 
-<hr>
-<p><u><span style="font-family:Verdana,Geneva,sans-serif"><span style="font-size:16px">Tecnologias:</span></span></u></p>
+<hr><br>
+<h3><u><span style="font-family:Verdana,Geneva,sans-serif"><span style="font-size:16px">Tecnologias:</span></span></u></h3>
 
 <p><span style="font-family:Verdana,Geneva,sans-serif">
 <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:40px; width:40px" />&nbsp; &nbsp;
@@ -48,7 +48,7 @@
 <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height:40px; width:40px; background-color:white;" />&nbsp; &nbsp;<img alt="Nest JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="height:40px; width:40px" />&nbsp; &nbsp;
 <img alt="Next JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" style="height:40px; width:40px; background-color:white;" /></span></p>
 
-<hr>
+<hr><br>
 <H3>Badges</H3>
 <img src='https://www.codewars.com/users/KarenMascarenhasLourenco/badges/small'>
 
