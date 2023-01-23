@@ -56,4 +56,4 @@
 
 [![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenMascarenhasLourenco&layout=compact&theme=dark)](https://github.com/KarenMascarenhasLourenco/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenMascarenhasLourenco&layout=compact&theme=dark)](https://github.com/KarenMascarenhasLourenco/github-readme-stats)
-
+<hr>
