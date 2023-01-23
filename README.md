@@ -48,7 +48,7 @@
 <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height:40px; width:40px; background-color:white;" />&nbsp; &nbsp;<img alt="Nest JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="height:40px; width:40px" />&nbsp; &nbsp;
 <img alt="Next JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" style="height:40px; width:40px; background-color:white;" /></span></p>
 
-<hr><br>
+<br><hr>
 <H3>Badges</H3>
 <img src='https://www.codewars.com/users/KarenMascarenhasLourenco/badges/small'>
 
