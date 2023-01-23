@@ -10,7 +10,7 @@
 
 <p><span style="font-family:Verdana,Geneva,sans-serif">
 <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:40px; width:40px" />&nbsp; &nbsp;
-<img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height:40px; width:40px" />&nbsp; &nbsp;<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:40px; width:40px" />&nbsp; &nbsp;
+<img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height:40px; width:40px; background-color:white;" />&nbsp; &nbsp;<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:40px; width:40px" />&nbsp; &nbsp;
 <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:40px; width:40px" />&nbsp; &nbsp;
 <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:40px; width:40px" />&nbsp; &nbsp;
 <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:40px; width:40px" />&nbsp; &nbsp;
@@ -21,7 +21,7 @@
 
 <p><span style="font-family:Verdana,Geneva,sans-serif">
 <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height:40px; width:40px" />&nbsp; &nbsp;<img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height:40px; width:40px" /> &nbsp; &nbsp; 
-<img alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" style="height:40px; width:40px" />&nbsp; &nbsp;</span></p>
+<img alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" style="height:40px; width:40p; background-color:white;x" />&nbsp; &nbsp;</span></p>
 
 <p><span style="font-family:Verdana,Geneva,sans-serif"><u><span style="font-size:14px">Design (UI/UX):</span></u></span></p>
 
@@ -44,8 +44,8 @@
 
 <p><span style="font-family:Verdana,Geneva,sans-serif">
 <img alt="Node JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:40px; width:40px" />&nbsp; &nbsp;
-<img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height:40px; width:40px" />&nbsp; &nbsp;<img alt="Nest JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="height:40px; width:40px" />&nbsp; &nbsp;
-<img alt="Next JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" style="height:40px; width:40px" /></span></p>
+<img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height:40px; width:40px; background-color:white;" />&nbsp; &nbsp;<img alt="Nest JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="height:40px; width:40px" />&nbsp; &nbsp;
+<img alt="Next JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" style="height:40px; width:40px; background-color:white;" /></span></p>
 
 [![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenMascarenhasLourenco&layout=compact&theme=dark)](https://github.com/KarenMascarenhasLourenco/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenMascarenhasLourenco&layout=compact&theme=dark)](https://github.com/KarenMascarenhasLourenco/github-readme-stats)
